@@ -1,0 +1,19 @@
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Log files
+*.log
+
+# Executable files
+*.exe
+*.out
+
+# IDE configuration folders
+.vscode/
+.idea/
+.eclipse/
+
+# Compiled files
+*.class
